@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_violet.mk
+    $(LOCAL_DIR)/lineageos_violet.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_violet-userdebug \
-    aosp_violet-user \
-    aosp_violet-eng
+    lineageos_violet-userdebug \
+    lineageos_violet-user \
+    lineageos_violet-eng

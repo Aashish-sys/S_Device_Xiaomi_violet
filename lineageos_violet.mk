@@ -23,8 +23,8 @@ $(call inherit-product, vendor/ANXCamera/config.mk)
 WITH_GAPPS := true
 
 #Blaze
-AOSP_BUILD_TYPE := UNOFFICIAL
-AOSP_MAINTAINER := Aashish
+lineageos_BUILD_TYPE := UNOFFICIAL
+lineageos_MAINTAINER := Aashish
 
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := lineageos_violet
